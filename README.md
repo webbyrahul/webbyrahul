@@ -52,6 +52,6 @@
 
 ## 📬 Connect With Me  
 - 📧 Email: [guptarahula546@gmail.com]  
-- 💼 LinkedIn: [ linkedin.com/in/rahul-gupta-513419266 ]
+- 💼 LinkedIn: [https://www.linkedin.com/in/rahul-gupta-513419266/]
 
 ⭐️ *“Code. Debug. Build. Repeat.”*  
