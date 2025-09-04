@@ -17,7 +17,8 @@
 - **Frontend:** HTML, CSS, React.js  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL  
-- **Other Tools:** Git, GitHub, VS Code  
+- **Other Tools:** Git, GitHub, VS Code
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
