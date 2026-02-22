@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 💻 Skilled in **MERN Stack Development**  
 - 📚 Actively practicing **DSA & Competitive Coding**  
-- 🎯 Goal: To become a **Full-Stack Developer** and crack top tech roles  
+- 🎯 Goal: To become a **Full-Stack Developer**
 - ⚡ Passionate about building projects & exploring new technologies  
 
 ---
@@ -37,9 +37,9 @@
 ---
 
 ## 📈 Current Focus  
-- Building **real-world projects** using MERN  
-- Sharpening **DSA skills** for placements  
-- Preparing for **TCS NQT & other hiring exams**  
+- Building **real-world projects** 
+- Sharpening **DSA skills** 
+-
 
 ---
 
