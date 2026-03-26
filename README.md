@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 - 💻 Skilled in **MERN Stack Development**  
 - 📚 Actively practicing **DSA & Competitive Coding**  
-- 🎯 Goal: To become a **Full-Stack Developer**
+- **Full-Stack Developer**
 - ⚡ Passionate about building projects & exploring new technologies  
 
 ---
@@ -34,14 +34,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
----
-
-## 📈 Current Focus  
-- Building **real-world projects** 
-- Sharpening **DSA skills** 
--
-
----
 
 ## 📊 GitHub Stats  
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=webbyrahul&show_icons=true&theme=radical)  
